@@ -142,7 +142,7 @@ public class MainActivity extends AppCompatActivity {
     public void registrar(View view) {
         if (validaciones()){
 
-            String url = "http://localhost:8001/inventario/articulos/listar";
+            String url = "https://proyect-final-android.000webhostapp.com/insertar_datos2.php";
 
             //peticion(url);
 
